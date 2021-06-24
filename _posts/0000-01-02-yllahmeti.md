@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your imaginary friend
+The core of mans' spirit comes from new experiences.
 Use the left arrow to go back!
